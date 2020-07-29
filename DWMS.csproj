@@ -5,6 +5,39 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="wwwroot\lib\admin-lte\plugins\fontawesome-free\fonts\fontawesome-webfont.svg" />
+    <None Include="wwwroot\lib\admin-lte\plugins\fontawesome-free\fonts\fontawesome-webfont.woff2" />
+    <None Include="wwwroot\lib\admin-lte\plugins\fontawesome-free\less\animated.less" />
+    <None Include="wwwroot\lib\admin-lte\plugins\fontawesome-free\less\bordered-pulled.less" />
+    <None Include="wwwroot\lib\admin-lte\plugins\fontawesome-free\less\core.less" />
+    <None Include="wwwroot\lib\admin-lte\plugins\fontawesome-free\less\fixed-width.less" />
+    <None Include="wwwroot\lib\admin-lte\plugins\fontawesome-free\less\font-awesome.less" />
+    <None Include="wwwroot\lib\admin-lte\plugins\fontawesome-free\less\icons.less" />
+    <None Include="wwwroot\lib\admin-lte\plugins\fontawesome-free\less\larger.less" />
+    <None Include="wwwroot\lib\admin-lte\plugins\fontawesome-free\less\list.less" />
+    <None Include="wwwroot\lib\admin-lte\plugins\fontawesome-free\less\mixins.less" />
+    <None Include="wwwroot\lib\admin-lte\plugins\fontawesome-free\less\path.less" />
+    <None Include="wwwroot\lib\admin-lte\plugins\fontawesome-free\less\rotated-flipped.less" />
+    <None Include="wwwroot\lib\admin-lte\plugins\fontawesome-free\less\screen-reader.less" />
+    <None Include="wwwroot\lib\admin-lte\plugins\fontawesome-free\less\stacked.less" />
+    <None Include="wwwroot\lib\admin-lte\plugins\fontawesome-free\less\variables.less" />
+    <None Include="wwwroot\lib\admin-lte\plugins\fontawesome-free\scss\font-awesome.scss" />
+    <None Include="wwwroot\lib\admin-lte\plugins\fontawesome-free\scss\_animated.scss" />
+    <None Include="wwwroot\lib\admin-lte\plugins\fontawesome-free\scss\_bordered-pulled.scss" />
+    <None Include="wwwroot\lib\admin-lte\plugins\fontawesome-free\scss\_core.scss" />
+    <None Include="wwwroot\lib\admin-lte\plugins\fontawesome-free\scss\_fixed-width.scss" />
+    <None Include="wwwroot\lib\admin-lte\plugins\fontawesome-free\scss\_icons.scss" />
+    <None Include="wwwroot\lib\admin-lte\plugins\fontawesome-free\scss\_larger.scss" />
+    <None Include="wwwroot\lib\admin-lte\plugins\fontawesome-free\scss\_list.scss" />
+    <None Include="wwwroot\lib\admin-lte\plugins\fontawesome-free\scss\_mixins.scss" />
+    <None Include="wwwroot\lib\admin-lte\plugins\fontawesome-free\scss\_path.scss" />
+    <None Include="wwwroot\lib\admin-lte\plugins\fontawesome-free\scss\_rotated-flipped.scss" />
+    <None Include="wwwroot\lib\admin-lte\plugins\fontawesome-free\scss\_screen-reader.scss" />
+    <None Include="wwwroot\lib\admin-lte\plugins\fontawesome-free\scss\_stacked.scss" />
+    <None Include="wwwroot\lib\admin-lte\plugins\fontawesome-free\scss\_variables.scss" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.6" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.6" />
   </ItemGroup>

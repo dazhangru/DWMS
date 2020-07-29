@@ -27,7 +27,10 @@ namespace DWMS.Controllers
         {
             return View();
         }
-
+        public IActionResult TestView()
+        {
+            return View();
+        }
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
